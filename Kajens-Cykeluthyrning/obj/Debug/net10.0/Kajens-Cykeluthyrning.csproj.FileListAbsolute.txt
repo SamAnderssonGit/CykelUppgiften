@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\bin\Debug\net10.0\Kajens-Cykeluthyrning.exe
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\bin\Debug\net10.0\Kajens-Cykeluthyrning.deps.json
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\bin\Debug\net10.0\Kajens-Cykeluthyrning.runtimeconfig.json
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\bin\Debug\net10.0\Kajens-Cykeluthyrning.dll
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\bin\Debug\net10.0\Kajens-Cykeluthyrning.pdb
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.dll
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\refint\Kajens-Cykeluthyrning.dll
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.pdb
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-Cykeluthyrning.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\ref\Kajens-Cykeluthyrning.dll
+C:\Users\Lenovo\Documents\Github\Kajens-Cykeluthyrning\Kajens-Cykeluthyrning\obj\Debug\net10.0\Kajens-C.048B992A.Up2Date

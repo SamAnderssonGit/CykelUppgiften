@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|c:\\users\\lenovo\\documents\\github\\kajens-cykeluthyrning\\kajens-cykeluthyrning\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|solutionrelative:kajens-cykeluthyrning\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|c:\\users\\lenovo\\documents\\github\\kajens-cykeluthyrning\\kajens-cykeluthyrning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|solutionrelative:kajens-cykeluthyrning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|c:\\users\\lenovo\\documents\\github\\kajens-cykeluthyrning\\kajens-cykeluthyrning\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|solutionrelative:kajens-cykeluthyrning\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|c:\\users\\lenovo\\documents\\github\\kajens-cykeluthyrning\\kajens-cykeluthyrning\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|solutionrelative:kajens-cykeluthyrning\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|c:\\users\\lenovo\\documents\\github\\kajens-cykeluthyrning\\kajens-cykeluthyrning\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|solutionrelative:kajens-cykeluthyrning\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|c:\\users\\lenovo\\documents\\github\\kajens-cykeluthyrning\\kajens-cykeluthyrning\\e-bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C48673-6932-908E-5F75-A8437AFE2D99}|Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning.csproj|solutionrelative:kajens-cykeluthyrning\\e-bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "E-Bike.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\E-Bike.cs",
+              "RelativeDocumentMoniker": "Kajens-Cykeluthyrning\\E-Bike.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\E-Bike.cs",
+              "RelativeToolTip": "Kajens-Cykeluthyrning\\E-Bike.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T22:49:35.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Kajens-Cykeluthyrning\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Vehicle.cs*",
+              "RelativeToolTip": "Kajens-Cykeluthyrning\\Vehicle.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:55:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Bike.cs",
+              "RelativeDocumentMoniker": "Kajens-Cykeluthyrning\\Bike.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Bike.cs",
+              "RelativeToolTip": "Kajens-Cykeluthyrning\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T11:40:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Rental.cs",
+              "RelativeDocumentMoniker": "Kajens-Cykeluthyrning\\Rental.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Rental.cs",
+              "RelativeToolTip": "Kajens-Cykeluthyrning\\Rental.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:27:25.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Costumer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Costumer.cs",
+              "RelativeDocumentMoniker": "Kajens-Cykeluthyrning\\Costumer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Costumer.cs",
+              "RelativeToolTip": "Kajens-Cykeluthyrning\\Costumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:50:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Program.cs",
+              "RelativeDocumentMoniker": "Kajens-Cykeluthyrning\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Github\\Kajens-Cykeluthyrning\\Kajens-Cykeluthyrning\\Program.cs",
+              "RelativeToolTip": "Kajens-Cykeluthyrning\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwJIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:42:27.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
